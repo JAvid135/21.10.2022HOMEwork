@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\Admin\Desktop\19.10.2022\19.10.2022Homework\Math\obj\Debug\netcoreapp3.1\Math.pdb
